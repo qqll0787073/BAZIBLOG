@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 八字月运测算",
+  "description": "专业四柱八字命盘排出工具，结合天干地支五行、十神及流月运势（事业、财运、健康、感情）AI深度解析，内置高品质八字自学与入门词典学堂。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
